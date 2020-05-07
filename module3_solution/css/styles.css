@@ -1,0 +1,114 @@
+body {
+    font-size: 16px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #1a1a1a;
+    background-image: url(back_image.jpg);
+  background-size: cover;
+}
+
+
+/** HEADER **/
+
+#header-nav {
+    background-color: #FFCC66;
+    border-radius: 0;
+    border: 0;
+}
+
+#header-nav button {
+    margin-top: 22px;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #fce29e;
+}
+
+.navbar-collapse {
+    border-top: 0;
+}
+
+.navbar-brand, .navbar-nav li a {
+    line-height: 76px;
+    height: 76px;
+    padding-top: 0;
+}
+
+.navbar-brand h1 {
+    color: #380000;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bolder;
+    font-size: 2em;
+}
+
+.navbar-brand a:hover {
+    text-decoration: none;
+    text-shadow: 1px 1px 1px #FFFFFF;
+}
+
+#nav-list {
+    background-color: #FFCC66;
+}
+
+#nav-list a {
+    /*text-align: center;*/
+    font-weight: bolder;
+    color: #282828;
+    font-size: 1.2em;
+}
+
+#nav-list a:hover {
+    color: #FFFFFF;
+    background-color: #686868;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid #7d1913;
+}
+
+
+/** END HEADER */
+
+
+/** HOME PAGE **/
+
+#main-content {
+    width: 92%;
+    margin-bottom: 30px;
+}
+
+#main-content h2 {
+    font-size: 3em;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    text-decoration: underline;
+}
+
+#main-content h3 {
+    font-size: 1.6em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-bottom: 1em;
+    color: #330000;
+    text-decoration: underline;
+}
+
+#chicken-tile, #beef-tile, #sushi-tile {
+    width: 100%;
+    padding: 20px;
+    background-color: #ddd6f3;
+    margin-bottom: 60px;
+    box-shadow: 0 0 80px #000000;
+}
+
+#main-content p {
+    font-size: 1.2em;
+    font-family:"Comic Sans MS", cursive, sans-serif;
+    font-weight: bolder;
+    margin: 0px;
+    text-align: justify;
+
+}
+
+/** END HOME PAGE **/
