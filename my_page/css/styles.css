@@ -128,7 +128,7 @@ body {
 /********** Large devices only **********/
 @media (min-width: 1200px) {
   .container .jumbotron {
-    background: url('images/Background3.png') no-repeat;
+    background: url('images/Background4.png') no-repeat;
     height: 510px;
   }
   #potrait img{
@@ -157,7 +157,7 @@ body {
 
   /* Home Page */
   .container .jumbotron {
-    background: url('images/Background3.png') no-repeat;
+    background: url('images/Background4.png') no-repeat;
     height: 460px;
   }
   #potrait img{
@@ -183,7 +183,7 @@ body {
 @media (min-width: 768px) and (max-width: 991px) {
   /* Home Page */
   .container .jumbotron {
-    background: url('images/Background3.png') no-repeat;
+    background: url('images/Background4.png') no-repeat;
     height: 410px;
   }
   #potrait img{
@@ -246,7 +246,7 @@ body {
   .container .jumbotron {
     margin-top: 30px;
     padding: 0;
-    background: url('images/Background3.png') no-repeat;
+    background: url('images/Background4.png') no-repeat;
     height: 560px;
   }
   #potrait img{
@@ -288,7 +288,7 @@ body {
     padding-left: 15px;
     float: left;
     width: 100%;
-    background: url('images/Background3.png') no-repeat;
+    background: url('images/Background4.png') no-repeat;
 
   }
   #potrait img{
