@@ -183,7 +183,7 @@ body {
   /* Home Page */
   .container .jumbotron {
     background: url("../images/Background4.png") no-repeat;
-    height: 410px;
+    height: 490px;
   }
   #potrait img{
       height: 80%;
@@ -246,7 +246,7 @@ body {
     margin-top: 30px;
     padding: 0;
     background: url("../images/Background4.png") no-repeat;
-    height: 560px;
+    height: 590px;
   }
   #potrait img{
       font-size: 1em;
